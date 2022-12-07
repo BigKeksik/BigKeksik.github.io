@@ -33,3 +33,9 @@ img {
 	display: block;
 }
 
+button {
+	width: 300px;
+	font-size: 25px;
+	margin: 0 auto;
+	display: block;
+}
